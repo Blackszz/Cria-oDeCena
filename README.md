@@ -25,23 +25,23 @@ por fim uma esfera brilhante com uma textura azul, essa vai ser a Genki Dama, o 
 
 Nós criamos um objeto vazio e colocamos dentro dele a esfera e uma fonte de luz, para assim alterar os dois ao mesmo tempo e parecer que a esfera emite luz.
 
-
+![img5.png](https://github.com/Blackszz/Cria-oDeCena/assets/163131651/8f55fd18-8eaa-474b-9e34-0a468c26a9fc)
 
 Na barra de assets estão todas as coisas que nós usamos, e uma delas é o new physics material.
 
-
+![img6.png](https://github.com/Blackszz/Cria-oDeCena/assets/163131651/e776c261-839c-4bc1-b72c-70d0d1b85cd3)
 
 No new physics material, nós removemos a propridade de bouciness dele, porque nós não queremos que a esfera quique, apenas que ela caia.
 
-
+![img7.png](https://github.com/Blackszz/Cria-oDeCena/assets/163131651/7f1a6db8-368f-43ea-aeec-79f5162ec087)
 
 Na efera nós colocamos o rigid body, para assim ela cair.
 
-
+![img9.png](https://github.com/Blackszz/Cria-oDeCena/assets/163131651/a34f8f21-cf4f-4286-9ab8-0d0b93283015)
 
 No Bills colocamos o sphere collider, para assim ele interagir com o planeta e se mover.
 
-
+![img10.png](https://github.com/Blackszz/Cria-oDeCena/assets/163131651/9a24cb9d-3c41-4ab0-ba3d-1a9ee78abf28)
 
 No planeta colocamos o terain collider e o box colider, assim realmete vai parecer que o bills está em cima de algo.
 
