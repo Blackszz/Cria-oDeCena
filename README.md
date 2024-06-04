@@ -1,6 +1,8 @@
 # Cria-oDeCena
+# Guilherme Santos
+# Henrique Kenji
 
-## Cenario
+## Cenário
 
 Iniciamos introduzindo o modelo do Goku juntamente com a sua textura.
 
