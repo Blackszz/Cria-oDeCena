@@ -41,11 +41,11 @@ Na efera nós colocamos o rigid body, para assim ela cair.
 
 No Bills colocamos o sphere collider, para assim ele interagir com o planeta e se mover.
 
-![img10.png](https://github.com/Blackszz/Cria-oDeCena/assets/163131651/9a24cb9d-3c41-4ab0-ba3d-1a9ee78abf28)
+![img11.png](https://github.com/Blackszz/Cria-oDeCena/assets/163131651/9af68feb-4566-4b30-97be-780377d59488)
 
 No planeta colocamos o terain collider e o box colider, assim realmete vai parecer que o bills está em cima de algo.
 
-
+![img10.png](https://github.com/Blackszz/Cria-oDeCena/assets/163131651/9a24cb9d-3c41-4ab0-ba3d-1a9ee78abf28)
 
 ## Resultado
 
