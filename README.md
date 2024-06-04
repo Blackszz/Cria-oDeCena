@@ -25,11 +25,11 @@ por fim uma esfera brilhante com uma textura azul, essa vai ser a Genki Dama, o 
 
 Nós criamos um objeto vazio e colocamos dentro dele a esfera e uma fonte de luz, para assim alterar os dois ao mesmo tempo e parecer que a esfera emite luz.
 
-![img5.png](https://github.com/Blackszz/Cria-oDeCena/assets/163131651/8f55fd18-8eaa-474b-9e34-0a468c26a9fc)
+![img6.png](https://github.com/Blackszz/Cria-oDeCena/assets/163131651/e776c261-839c-4bc1-b72c-70d0d1b85cd3)
 
 Na barra de assets estão todas as coisas que nós usamos, e uma delas é o new physics material.
 
-![img6.png](https://github.com/Blackszz/Cria-oDeCena/assets/163131651/e776c261-839c-4bc1-b72c-70d0d1b85cd3)
+![img5.png](https://github.com/Blackszz/Cria-oDeCena/assets/163131651/8f55fd18-8eaa-474b-9e34-0a468c26a9fc)
 
 No new physics material, nós removemos a propridade de bouciness dele, porque nós não queremos que a esfera quique, apenas que ela caia.
 
