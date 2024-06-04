@@ -6,18 +6,19 @@
 
 Iniciamos introduzindo o modelo do Goku juntamente com a sua textura.
 
-
+![Img1.png](https://github.com/Blackszz/Cria-oDeCena/assets/163131651/132707e1-6dc5-49f0-a2ff-4e63481ea66a)
 
 O modelo do Bills também, que será o seu oponente.
 
-
+![img2.png](https://github.com/Blackszz/Cria-oDeCena/assets/163131651/1fd73278-e902-4acf-8460-4fe05327c209)
 
 O modelo do planeta do Sr. Kaio, onde será o local do combate deles.
 
-
+![img3.png](https://github.com/Blackszz/Cria-oDeCena/assets/163131651/418e4b1a-8cfc-4afa-81d8-7bbf68dc3bcd)
 
 por fim uma esfera brilhante com uma textura azul, essa vai ser a Genki Dama, o projetil que o Goku irá jogar.
 
+![img4.png](https://github.com/Blackszz/Cria-oDeCena/assets/163131651/b2d1f3b4-63d0-45ba-95c6-6686648a13c0)
 
 
 ## Ferramentas usadas
